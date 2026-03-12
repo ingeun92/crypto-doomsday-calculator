@@ -1,6 +1,6 @@
 <div align="center">
 
-# Crypto Tax Saver
+# Crypto Tax Calculator
 
 **가상자산 절세 시뮬레이터**
 
